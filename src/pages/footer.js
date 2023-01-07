@@ -51,7 +51,7 @@ class Footer extends React.Component{
               </div>
               <ul className="footer-list">
                 <li><a href="https://www.twitter.com/indgeos" target="_blank"><i class="fa fa-twitter"></i></a></li>
-              <li><a href="https://www.linkedin.com/company/indgeosgeospatial/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+              <li><a href="https://www.linkedin.com/company/indgeos/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                 
               </ul>
             </div>
