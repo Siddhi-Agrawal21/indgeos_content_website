@@ -14,7 +14,7 @@ class Home extends React.Component{
           <div className="col-md-8 offset-md-2">
             <div className="header-text caption">
               <h2>
-                <b style={{color: '#f5d11d'}}>INDGEOS</b>
+                <b style={{color: '#FFFF00'}}>INDGEOS</b>
                 <b style={{color: '#0fd9f8'}}>GEOSPATIAL</b> Technologies
               </h2>
               {/* <h6 style={{padding-top: -70px}}> */}
